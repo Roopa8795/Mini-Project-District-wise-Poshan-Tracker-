@@ -1,4 +1,4 @@
-# Mini-Project-District-wise-Poshan-Tracker
+# Mini-Project-
 This mini project analyzes district-level nutrition data collected from the India Data Portal. The objective is to examine key Poshan (nutrition) indicators across districts and identify patterns, trends, and performance variations using data analysis techniques.
 
 Data Source:
